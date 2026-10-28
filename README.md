@@ -90,4 +90,4 @@ O número de operações coincide com as fórmulas exatas das recorrências dos 
 
 ## Integrantes
 
-- _preencher com os nomes do grupo_
+- Mateus Almeida e Rafael Borduni
